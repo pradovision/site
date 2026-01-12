@@ -1,0 +1,22 @@
+:root {
+    /* Identidade Visual */
+    --primary: #007bff; /* Azul vibrante, ideal para empresas */
+    --primary-dark: #0056b3;
+    --secondary: #343a40; /* Cinza escuro para textos e fundos */
+    --accent: #28a745; /* Verde para sucesso/botões alternativos */
+    
+    /* Cores de Fundo e Texto */
+    --bg-light: #ffffff;
+    --bg-alt: #f8f9fa; /* Fundo mais claro para seções alternadas */
+    --text-main: #212529;
+    --text-muted: #6c757d;
+    --border-color: #dee2e6;
+    
+    /* Tipografia e Layout */
+    --font-family: 'Inter', sans-serif;
+    --container-width: 1200px;
+    --transition: all 0.3s ease;
+    --border-radius: 8px;
+    --box-shadow-light: 0 4px 15px rgba(0, 0, 0, 0.08);
+    --box-shadow-medium: 0 8px 25px rgba(0, 0, 0, 0.12);
+}
